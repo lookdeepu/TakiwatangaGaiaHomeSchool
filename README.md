@@ -1,4 +1,4 @@
-# TakiwatangaGaiaHomeSchool
+# Takiwātanga Gaia Home School
 
 In today's rapidly changing world, education must embrace inclusivity and accommodate different learning styles. Takiwatanga Gaia recognizes that neurodivergent individuals, with their exceptional strengths and talents, deserve an educational environment that nurtures their potential. We understand that traditional schooling can sometimes fall short in meeting the diverse needs of these learners, leading to frustration, disengagement, and missed opportunities.
 
