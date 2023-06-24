@@ -1,8 +1,7 @@
 # Takiwātanga Gaia Home School
 
-![OIG rxO](https://github.com/lookdeepu/TakiwatangaGaiaHomeSchool/assets/24821571/ba6d4001-5990-4966-a8b9-32e31bdc314e)
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24821571/248506352-ba6d4001-5990-4966-a8b9-32e31bdc314e.jpg"  width="100" height="100">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24821571/248506352-ba6d4001-5990-4966-a8b9-32e31bdc314e.jpg"  width="200" height="200">
 
 
 In today's rapidly changing world, education must embrace inclusivity and accommodate different learning styles. Takiwatanga Gaia recognizes that neurodivergent individuals, with their exceptional strengths and talents, deserve an educational environment that nurtures their potential. We understand that traditional schooling can sometimes fall short in meeting the diverse needs of these learners, leading to frustration, disengagement, and missed opportunities.
