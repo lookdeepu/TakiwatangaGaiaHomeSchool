@@ -12,4 +12,11 @@ But Takiwatanga Gaia is much more than just reading material. We have developed 
 
 ---
 
-To add your documents for initial review, please visit code.io
+To add your documents for initial review, please visit code.io and request access for our workspace
+
+---
+
+For updates on this project, do follow the twitter handle 
+
+
+[![Follow me on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Takiwatanga42)](https://twitter.com/takiwatanga42)
