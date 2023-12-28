@@ -10,6 +10,8 @@ But fear not, Takiwatanga Gaia is here to revolutionize the way we educate neuro
 
 But Takiwatanga Gaia is much more than just reading material. We have developed a wide array of fun activities and interactive games that stimulate learning while accommodating different learning styles. Whether it's through hands-on experiments, immersive virtual experiences, or creative projects, our students will be engaged, excited, and empowered to explore the world around them.
 
+`hello world`
+
 ---
 
 To add your documents for initial review, please visit code.io and request access for our workspace
